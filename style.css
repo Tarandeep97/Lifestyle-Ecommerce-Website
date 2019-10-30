@@ -22,13 +22,16 @@
 .thumbnail img{
     max-height: 150px; 
 }
+main {
+    min-height: 100vh;
+}
 
-footer{padding: 10px 0; 
-       background-color: #101010; 
-       color:#9d9d9d; 
-       position:fixed;
-       bottom: 0; 
-       width: 100%; }
+footer{
+    padding: 10px 0; 
+    background-color: #101010; 
+    color:#9d9d9d; 
+    bottom: 0; 
+    width: 100%; }
 .row_style{margin-top: 70px;
 }
  h2{font-weight: bolder; 
@@ -40,5 +43,21 @@ footer{padding: 10px 0;
   h4{font-weight: bolder;
   }
  .container_style{margin-top: 80px;
+ }
+
+ .add-to-cart {
+    margin: 0;
+    background-color: #337ab7;
+    color: #ffffff;
+    border: 0;
+    border-radius: 4px;
+    outline: none;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+ }
+ .padding-20 {
+     padding: 20px;
  }
          
