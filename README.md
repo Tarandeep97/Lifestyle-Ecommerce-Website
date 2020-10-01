@@ -1,5 +1,6 @@
-# Lifestyle-Ecommerce-Website
-Simple front-end design for ecommerce website implemented in HTML, CSS & Bootstrap.
+# Lifestyle Store an e-commerce Website
+## An Amazing Website Project
+Simple front-end design for e-commerce website implemented by using HTML, CSS & Bootstrap.
 
 
 Visit link to preview :- https://tarandeep97.github.io/Lifestyle-Ecommerce-Website/
