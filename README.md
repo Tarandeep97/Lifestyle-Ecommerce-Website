@@ -1,4 +1,5 @@
 # Lifestyle-Ecommerce-Website
+# Just change your style, and take a step towards the better world.
 Simple front-end design for ecommerce website implemented in HTML, CSS & Bootstrap.
 
 
