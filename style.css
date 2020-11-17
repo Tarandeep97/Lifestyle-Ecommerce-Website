@@ -34,6 +34,10 @@ footer{
     width: 100%; }
 .row_style{margin-top: 70px;
 }
+
+button:hover{
+   background-color: rgb(70, 181, 250);
+}
  h2{font-weight: bolder; 
  }
  .jumbotron_style{margin-top: 70px;
